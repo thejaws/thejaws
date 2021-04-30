@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thejaws
-- 👀 I’m interested in automatic testing, python and ruby
+- 👀 I’m interested in massively distributed systems, automatic testing, python and ruby
 - 🌱 I’m currently learning Robot Framework
 
 - 📫 How to reach me : thejaws@gmail.com
